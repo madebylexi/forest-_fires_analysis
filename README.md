@@ -4,10 +4,10 @@ This project predicts the burned area of forest fires in the northeast region of
 .
 
 # Libraries Used
-pandas
-numpy
-statsmodels
-seaborn
+pandas,
+numpy,
+statsmodels,
+seaborn,
 matplotlib
 
 # Data
